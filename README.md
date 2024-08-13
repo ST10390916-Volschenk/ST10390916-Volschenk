@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a first year student currently learning java.
+I am a second year student currently learning C#.
 
 This will be used for all of my school related projects.
 <!--

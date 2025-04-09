@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a second year student currently learning C#.
+I am a third year student currently learning Kotlin.
 
 This will be used for all of my school related projects.
 <!--
